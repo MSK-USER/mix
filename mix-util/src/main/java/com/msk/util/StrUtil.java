@@ -1,4 +1,4 @@
-package com.msk.file;
+package com.msk.util;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.Validate;
